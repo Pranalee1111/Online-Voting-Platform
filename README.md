@@ -1,4 +1,4 @@
-![Screenshot 2024-09-07 213708](https://github.com/user-attachments/assets/913df64c-6eb1-4bd3-a1d8-efd722fedaa2)# 🗳️ Online Voting Platform
+## 🗳️ Online Voting Platform
 
 This is a **web-based online voting system** developed using **Java (JSP & Servlets)** and **MySQL**, designed to manage small-scale elections securely and efficiently. The platform allows users to register, log in, and vote for different posts, while providing admins with tools to manage elections and view results.
 
@@ -20,7 +20,9 @@ This is a **web-based online voting system** developed using **Java (JSP & Servl
 - **Database**: MySQL
 - **Web Server**: Apache Tomcat
 
+
 ## Overview of Project
+
 
 ![Screenshot 2024-09-07 213708](https://github.com/user-attachments/assets/296d688e-6fcc-4bc9-a1fe-00da1f7c41ee)
 
